@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer Engineer.</h3>
 <br>
 
-### Who am I? 😄
+### Who am I?
 
 A student in Software Engineering with experience and extensive education in software design and application
 development.Fluent in English with excellent communication and interpersonal skills.A fast learner with strong
@@ -17,8 +17,7 @@ success and process efficiency.Strong troubleshooting and problem-solving skills
 - I’m currently Exploring Flutter. 
 - Ask me about Python Development, Front-End, Flutter.
 - How to reach me: msikandar@students.uit.edu;
-- <p align="left"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> Dota2 Player🎮</p>
-
+-
 
 
 
@@ -35,10 +34,10 @@ success and process efficiency.Strong troubleshooting and problem-solving skills
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-[![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=Muhammad-waqar-uit)](https://github.com/Muhammad-waqar-uit/github-readme-stats)
+[![Muhammad Waqar](https://github-readme-stats.vercel.app/api?username=MUNEEB630)](https://github.com/MUNEEB630/github-readme-stats)
 </br>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhammad-waqar-uit.Muhammad-waqar-uit)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=MUNEEB630.MUNEEB630)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/muneeb-sikandar-64b569179/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muhammad Waqar 🇵🇰" height="30" width="40" /></a>
