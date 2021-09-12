@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Muneeb Sikandar</h1>
 
-<h3 align="center">Software Developer Engineer.</h3>
+<h3 align="center">Software Developer Engineer</h3>
 <br>
 
 ### Who am I?
