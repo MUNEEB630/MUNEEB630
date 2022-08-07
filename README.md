@@ -16,7 +16,7 @@ success and process efficiency.Strong troubleshooting and problem-solving skills
 
 - I’m currently Exploring Flutter. 
 - Ask me about Python Development, Front-End, Flutter.
-- How to reach me: msikandar@students.uit.edu;
+- How to reach me: muneeb.sikandar23@gmail.com;
 -
 
 
